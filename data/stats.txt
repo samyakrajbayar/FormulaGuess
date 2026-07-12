@@ -1,0 +1,27 @@
+# FormulaGuess Statistics
+# Last updated: 2026-07-12 15:47:18
+# Do not edit manually
+
+ach_10_wins=0
+ach_50_wins=0
+ach_first_win=1
+ach_hall_of_fame=0
+ach_perfect_accuracy=0
+ach_perfect_game=0
+best_streak=3
+circuit_played=1
+circuit_wins=1
+constructor_played=2
+constructor_wins=1
+current_streak=3
+driver_played=2
+driver_wins=1
+games_lost=2
+games_played=5
+games_won=3
+hints_used=11
+last_played=2026-07-12 15:47:18
+perfect_games=0
+player_name=Samyak
+total_guesses=23
+total_score=140

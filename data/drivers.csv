@@ -1,0 +1,105 @@
+Name,Surname,Full Name,Nationality,Country,Birth Year,Age,Driver Number,Current Team,Previous Teams,Debut Season,Final Season,Championships,Race Starts,Wins,Podiums,Pole Positions,Fastest Laps,Points,Highest Championship Finish,Current Status,Engine Manufacturer,Teammates,Home Grand Prix
+Fernando,Alonso,Fernando Alonso,Spanish,Spain,1981,44,14,Aston Martin,"Minardi;Renault;McLaren;Ferrari;Alpine",2001,Present,2,400,32,106,22,24,2312,1,Active,Honda,Lance Stroll,Spanish Grand Prix
+Lewis,Hamilton,Lewis Hamilton,British,United Kingdom,1985,40,44,Ferrari,"McLaren;Mercedes",2007,Present,7,353,105,202,104,67,4829,1,Active,Ferrari,Charles Leclerc,British Grand Prix
+Max,Verstappen,Max Verstappen,Dutch,Netherlands,1997,28,1,Red Bull Racing,"Toro Rosso",2015,Present,4,210,63,112,40,33,3023,1,Active,Honda RBPT,Liam Lawson,Dutch Grand Prix
+Charles,Leclerc,Charles Leclerc,Monegasque,Monaco,1997,28,16,Ferrari,"Sauber",2018,Present,0,146,9,40,26,10,1300,2,Active,Ferrari,Lewis Hamilton,Monaco Grand Prix
+Lando,Norris,Lando Norris,British,United Kingdom,1999,26,4,McLaren,,2019,Present,0,131,7,30,15,10,1101,2,Active,Mercedes,Oscar Piastri,British Grand Prix
+Carlos,Sainz,Carlos Sainz,Spanish,Spain,1994,31,55,Williams,"Toro Rosso;Renault;McLaren;Ferrari",2015,Present,0,210,4,26,6,4,1050,3,Active,Mercedes,Alexander Albon,Spanish Grand Prix
+Oscar,Piastri,Oscar Piastri,Australian,Australia,2001,24,81,McLaren,,2023,Present,0,55,4,18,3,2,490,4,Active,Mercedes,Lando Norris,Australian Grand Prix
+George,Russell,George Russell,British,United Kingdom,1998,27,63,Mercedes,"Williams",2019,Present,0,119,3,19,6,8,687,4,Active,Mercedes,Andrea Kimi Antonelli,British Grand Prix
+Alexander,Albon,Alexander Albon,Thai,Thailand,1996,29,23,Williams,"Toro Rosso;Red Bull Racing",2019,Present,0,107,0,2,0,0,262,7,Active,Mercedes,Carlos Sainz,Thai Grand Prix
+Pierre,Gasly,Pierre Gasly,French,France,1996,29,10,Alpine,"Toro Rosso;Red Bull Racing;AlphaTauri",2017,Present,0,156,1,4,0,3,394,5,Active,Renault,Jack Doohan,French Grand Prix
+Yuki,Tsunoda,Yuki Tsunoda,Japanese,Japan,2000,25,22,Red Bull Racing,"AlphaTauri;RB",2021,Present,0,96,0,1,0,1,115,8,Active,Honda RBPT,Max Verstappen,Japanese Grand Prix
+Lance,Stroll,Lance Stroll,Canadian,Canada,1998,27,18,Aston Martin,"Williams;Racing Point",2017,Present,0,168,0,3,1,0,292,6,Active,Honda,Fernando Alonso,Canadian Grand Prix
+Nico,Hulkenberg,Nico Hulkenberg,German,Germany,1987,38,27,Sauber,"Williams;Force India;Sauber;Renault;Racing Point;Haas",2010,Present,0,228,0,0,1,2,543,7,Active,Ferrari,Gabriel Bortoleto,German Grand Prix
+Kevin,Magnussen,Kevin Magnussen,Danish,Denmark,1992,33,20,Haas,"McLaren;Renault",2014,2024,0,189,0,1,0,2,194,7,Retired,Ferrari,Nico Hulkenberg,Danish Grand Prix
+Esteban,Ocon,Esteban Ocon,French,France,1996,29,31,Haas,"Manor;Force India;Racing Point;Renault;Alpine",2016,Present,0,160,1,3,0,0,417,7,Active,Ferrari,Oliver Bearman,French Grand Prix
+Valtteri,Bottas,Valtteri Bottas,Finnish,Finland,1989,35,77,Retired,"Williams;Mercedes;Alfa Romeo;Sauber",2013,2024,0,241,10,67,20,19,1797,2,Retired,Ferrari,Zhou Guanyu,Finnish Grand Prix
+Daniel,Ricciardo,Daniel Ricciardo,Australian,Australia,1989,36,3,Retired,"HRT;Toro Rosso;Red Bull Racing;Renault;McLaren;AlphaTauri;RB",2011,2024,0,257,8,32,3,16,1329,3,Retired,Honda RBPT,Yuki Tsunoda,Australian Grand Prix
+Sebastian,Vettel,Sebastian Vettel,German,Germany,1987,38,5,Retired,"BMW Sauber;Toro Rosso;Red Bull Racing;Ferrari;Aston Martin",2007,2022,4,299,53,122,57,38,3098,1,Retired,Honda,Lance Stroll,German Grand Prix
+Kimi,Raikkonen,Kimi Raikkonen,Finnish,Finland,1979,46,7,Retired,"Sauber;McLaren;Ferrari;Lotus;Alfa Romeo",2001,2021,1,353,21,103,18,46,1873,1,Retired,Ferrari,Antonio Giovinazzi,Finnish Grand Prix
+Jenson,Button,Jenson Button,British,United Kingdom,1980,45,22,Retired,"Williams;Benetton;Renault;BAR;Honda;Brawn;McLaren",2000,2017,1,309,15,50,8,8,1235,1,Retired,Honda,Fernando Alonso,British Grand Prix
+Mark,Webber,Mark Webber,Australian,Australia,1976,49,2,Retired,"Minardi;Jaguar;Williams;Red Bull Racing",2002,2013,0,217,9,42,13,19,1047,3,Retired,Renault,Sebastian Vettel,Australian Grand Prix
+Nico,Rosberg,Nico Rosberg,German,Germany,1985,40,6,Retired,"Williams;Mercedes",2006,2016,1,207,23,57,30,20,1594,1,Retired,Mercedes,Lewis Hamilton,German Grand Prix
+Felipe,Massa,Felipe Massa,Brazilian,Brazil,1981,44,19,Retired,"Sauber;Ferrari;Williams",2002,2017,0,272,11,41,16,15,1167,2,Retired,Mercedes,Lance Stroll,Brazilian Grand Prix
+Romain,Grosjean,Romain Grosjean,French,France,1986,39,8,Retired,"Renault;Lotus;Haas",2009,2020,0,181,0,10,0,1,391,7,Retired,Ferrari,Kevin Magnussen,French Grand Prix
+Sergio,Perez,Sergio Perez,Mexican,Mexico,1990,35,11,Retired,"Sauber;McLaren;Force India;Racing Point;Red Bull Racing",2011,2024,0,283,6,39,3,11,1582,2,Active,Honda RBPT,Max Verstappen,Mexican Grand Prix
+Robert,Kubica,Robert Kubica,Polish,Poland,1984,41,88,Retired,"BMW Sauber;Renault;Williams;Alfa Romeo",2006,2021,0,101,1,12,1,1,274,4,Retired,Mercedes,George Russell,Polish Grand Prix
+Daniil,Kvyat,Daniil Kvyat,Russian,Russia,1994,31,26,Retired,"Toro Rosso;Red Bull Racing;AlphaTauri",2014,2020,0,110,0,3,0,1,202,7,Retired,Honda,Pierre Gasly,Russian Grand Prix
+Pastor,Maldonado,Pastor Maldonado,Venezuelan,Venezuela,1985,40,13,Retired,"Williams;Lotus",2011,2015,0,96,1,1,1,0,76,10,Retired,Mercedes,Romain Grosjean,Venezuelan Grand Prix
+Kamui,Kobayashi,Kamui Kobayashi,Japanese,Japan,1986,39,10,Retired,"Sauber;Caterham",2009,2014,0,78,0,1,0,0,125,10,Retired,Ferrari,Sergio Perez,Japanese Grand Prix
+Vitaly,Petrov,Vitaly Petrov,Russian,Russia,1984,41,21,Retired,"Renault;Caterham",2010,2012,0,57,0,1,0,1,64,11,Retired,Renault,Robert Kubica,Russian Grand Prix
+Heikki,Kovalainen,Heikki Kovalainen,Finnish,Finland,1981,44,7,Retired,"Renault;McLaren;Lotus;Caterham",2007,2013,0,113,1,4,1,2,105,7,Retired,Renault,Lewis Hamilton,Finnish Grand Prix
+Nick,Heidfeld,Nick Heidfeld,German,Germany,1977,48,15,Retired,"Prost;Sauber;Jordan;Williams;BMW Sauber;Renault",2000,2011,0,184,0,13,1,2,259,5,Retired,Renault,Robert Kubica,German Grand Prix
+Rubens,Barrichello,Rubens Barrichello,Brazilian,Brazil,1972,53,11,Retired,"Jordan;Stewart;Ferrari;Honda;Brawn;Williams",1993,2011,0,326,11,68,14,17,658,2,Retired,Cosworth,Pastor Maldonado,Brazilian Grand Prix
+David,Coulthard,David Coulthard,British,United Kingdom,1971,54,14,Retired,"Williams;McLaren;Red Bull Racing",1994,2008,0,247,13,62,12,18,535,2,Retired,Renault,Mark Webber,British Grand Prix
+Giancarlo,Fisichella,Giancarlo Fisichella,Italian,Italy,1973,52,21,Retired,"Minardi;Jordan;Benetton;Sauber;Renault;Force India;Ferrari",1996,2009,0,231,3,19,4,2,275,4,Retired,Ferrari,Kimi Raikkonen,Italian Grand Prix
+Jarno,Trulli,Jarno Trulli,Italian,Italy,1974,51,12,Retired,"Minardi;Prost;Jordan;Renault;Toyota;Lotus",1997,2011,0,256,1,11,4,1,246,4,Retired,Renault,Heikki Kovalainen,Italian Grand Prix
+Ralf,Schumacher,Ralf Schumacher,German,Germany,1975,50,17,Retired,"Jordan;Williams;Toyota",1997,2007,0,183,6,27,6,8,329,4,Retired,Toyota,Jarno Trulli,German Grand Prix
+Juan Pablo,Montoya,Juan Pablo Montoya,Colombian,Colombia,1975,50,6,Retired,"Williams;McLaren",2001,2006,0,95,7,30,13,12,307,3,Retired,Mercedes,Kimi Raikkonen,Colombian Grand Prix
+Michael,Schumacher,Michael Schumacher,German,Germany,1969,56,7,Retired,"Jordan;Benetton;Ferrari;Mercedes",1991,2012,7,308,91,155,68,77,1566,1,Retired,Mercedes,Nico Rosberg,German Grand Prix
+Takuma,Sato,Takuma Sato,Japanese,Japan,1977,48,55,Retired,"Jordan;BAR;Super Aguri",2002,2008,0,91,0,1,0,0,44,8,Retired,Honda,Jenson Button,Japanese Grand Prix
+Jacques,Villeneuve,Jacques Villeneuve,Canadian,Canada,1971,54,12,Retired,"Williams;BAR;Renault;Sauber;BMW Sauber",1996,2006,1,165,11,23,13,9,235,1,Retired,BMW,Nick Heidfeld,Canadian Grand Prix
+Adrian,Sutil,Adrian Sutil,German,Germany,1983,42,99,Retired,"Spyker;Force India;Sauber",2007,2014,0,128,0,0,0,0,124,9,Retired,Ferrari,Esteban Gutierrez,German Grand Prix
+Paul,di Resta,Paul di Resta,British,United Kingdom,1986,39,40,Retired,"Force India",2011,2013,0,59,0,0,0,0,121,8,Retired,Mercedes,Adrian Sutil,British Grand Prix
+Nico,Rosberg,Nico Rosberg,German,Germany,1985,40,6,Retired,"Williams;Mercedes",2006,2016,1,207,23,57,30,20,1594,1,Retired,Mercedes,Lewis Hamilton,German Grand Prix
+Jean-Eric,Vergne,Jean-Eric Vergne,French,France,1990,35,25,Retired,"Toro Rosso",2012,2014,0,60,0,0,0,1,51,12,Retired,Renault,Daniel Ricciardo,French Grand Prix
+Marcus,Ericsson,Marcus Ericsson,Swedish,Sweden,1990,35,9,Retired,"Caterham;Sauber;Alfa Romeo",2014,2018,0,97,0,0,0,0,18,17,Retired,Ferrari,Charles Leclerc,Swedish Grand Prix
+Stoffel,Vandoorne,Stoffel Vandoorne,Belgian,Belgium,1992,33,2,Retired,"McLaren",2016,2018,0,41,0,0,0,0,26,16,Retired,Honda,Fernando Alonso,Belgian Grand Prix
+Jolyon,Palmer,Jolyon Palmer,British,United Kingdom,1991,34,30,Retired,"Renault",2016,2017,0,35,0,0,0,0,9,17,Retired,Renault,Nico Hulkenberg,British Grand Prix
+Pascal,Wehrlein,Pascal Wehrlein,German,Germany,1994,31,94,Retired,"Manor;Sauber",2016,2017,0,39,0,0,0,0,6,19,Retired,Ferrari,Marcus Ericsson,German Grand Prix
+Brendon,Hartley,Brendon Hartley,New Zealander,New Zealand,1989,36,28,Retired,"Toro Rosso",2017,2018,0,25,0,0,0,0,4,19,Retired,Honda,Pierre Gasly,New Zealand Grand Prix
+Sergey,Sirotkin,Sergey Sirotkin,Russian,Russia,1995,30,35,Retired,"Williams",2018,2018,0,21,0,0,0,0,1,20,Retired,Mercedes,Lance Stroll,Russian Grand Prix
+Mick,Schumacher,Mick Schumacher,German,Germany,1999,26,47,Retired,"Haas",2021,2022,0,43,0,0,0,0,12,16,Retired,Ferrari,Kevin Magnussen,German Grand Prix
+Nikita,Mazepin,Nikita Mazepin,Russian,Russia,1999,26,9,Retired,"Haas",2021,2021,0,21,0,0,0,0,0,21,Retired,Ferrari,Mick Schumacher,Russian Grand Prix
+Antonio,Giovinazzi,Antonio Giovinazzi,Italian,Italy,1993,32,99,Retired,"Sauber;Alfa Romeo",2017,2021,0,62,0,0,0,0,21,17,Retired,Ferrari,Kimi Raikkonen,Italian Grand Prix
+Nicholas,Latifi,Nicholas Latifi,Canadian,Canada,1995,30,6,Retired,"Williams",2020,2022,0,61,0,0,0,0,7,21,Retired,Mercedes,Alexander Albon,Canadian Grand Prix
+Guanyu,Zhou,Guanyu Zhou,Chinese,China,1999,26,24,Retired,"Alfa Romeo;Sauber",2022,2024,0,57,0,0,0,0,12,14,Retired,Ferrari,Valtteri Bottas,Chinese Grand Prix
+Logan,Sargeant,Logan Sargeant,American,United States,2000,25,2,Retired,"Williams",2023,2024,0,36,0,0,0,0,1,22,Retired,Mercedes,Alexander Albon,United States Grand Prix
+Nyck,de Vries,Nyck de Vries,Dutch,Netherlands,1995,30,21,Retired,"AlphaTauri",2023,2023,0,10,0,0,0,0,0,21,Retired,Honda RBPT,Yuki Tsunoda,Dutch Grand Prix
+Liam,Lawson,Liam Lawson,New Zealander,New Zealand,2002,23,30,Red Bull Racing,"AlphaTauri;RB",2023,Present,0,29,0,0,0,0,14,12,Active,Honda RBPT,Max Verstappen,New Zealand Grand Prix
+Oliver,Bearman,Oliver Bearman,British,United Kingdom,2005,20,87,Haas,"Ferrari (sub)",2024,Present,0,15,0,1,0,0,18,10,Active,Ferrari,Esteban Ocon,British Grand Prix
+Franco,Colapinto,Franco Colapinto,Argentine,Argentina,2003,22,43,Alpine,"Williams",2024,Present,0,17,0,0,0,0,5,15,Active,Renault,Pierre Gasly,Argentine Grand Prix
+Jack,Doohan,Jack Doohan,Australian,Australia,2003,22,7,Alpine,,2024,Present,0,12,0,0,0,0,2,18,Active,Renault,Pierre Gasly,Australian Grand Prix
+Gabriel,Bortoleto,Gabriel Bortoleto,Brazilian,Brazil,2004,21,5,Sauber,,2025,Present,0,10,0,0,0,0,1,18,Active,Ferrari,Nico Hulkenberg,Brazilian Grand Prix
+Isack,Hadjar,Isack Hadjar,French,France,2004,21,6,RB,,2025,Present,0,10,0,0,0,0,4,15,Active,Honda RBPT,Yuki Tsunoda,French Grand Prix
+Andrea Kimi,Antonelli,Andrea Kimi Antonelli,Italian,Italy,2006,19,12,Mercedes,,2025,Present,0,10,0,1,0,0,8,12,Active,Mercedes,George Russell,Italian Grand Prix
+Timo,Glock,Timo Glock,German,Germany,1982,43,18,Retired,"Jordan;Toyota;Marussia;Manor",2004,2012,0,91,0,3,0,1,51,8,Retired,Toyota,Jarno Trulli,German Grand Prix
+Nelson,Piquet Jr,Nelson Piquet Jr,Brazilian,Brazil,1985,40,8,Retired,"Renault",2008,2009,0,28,0,0,0,0,19,12,Retired,Renault,Fernando Alonso,Brazilian Grand Prix
+Sebastien,Buemi,Sebastien Buemi,Swiss,Switzerland,1988,37,31,Retired,"Toro Rosso",2009,2011,0,55,0,0,0,0,29,14,Retired,Ferrari,Jaime Alguersuari,Swiss Grand Prix
+Jaime,Alguersuari,Jaime Alguersuari,Spanish,Spain,1990,35,19,Retired,"Toro Rosso",2009,2011,0,46,0,0,0,0,31,13,Retired,Ferrari,Sebastien Buemi,Spanish Grand Prix
+Vitantonio,Liuzzi,Vitantonio Liuzzi,Italian,Italy,1980,45,20,Retired,"Red Bull Racing;Toro Rosso;Force India;HRT",2005,2011,0,82,0,0,0,0,26,13,Retired,Cosworth,Narain Karthikeyan,Italian Grand Prix
+Christian,Klien,Christian Klien,Austrian,Austria,1983,42,14,Retired,"Jaguar;Red Bull Racing;HRT",2004,2010,0,50,0,0,0,0,14,14,Retired,Cosworth,Vitantonio Liuzzi,Austrian Grand Prix
+Scott,Speed,Scott Speed,American,United States,1983,42,20,Retired,"Toro Rosso",2006,2007,0,28,0,0,0,0,0,21,Retired,Ferrari,Vitantonio Liuzzi,United States Grand Prix
+Anthony,Davidson,Anthony Davidson,British,United Kingdom,1979,46,23,Retired,"Super Aguri",2007,2008,0,24,0,0,0,0,0,21,Retired,Honda,Takuma Sato,British Grand Prix
+Kazuki,Nakajima,Kazuki Nakajima,Japanese,Japan,1985,40,18,Retired,"Williams",2007,2009,0,36,0,0,0,0,9,15,Retired,Toyota,Nico Rosberg,Japanese Grand Prix
+Sebastien,Bourdais,Sebastien Bourdais,French,France,1979,46,14,Retired,"Toro Rosso",2008,2009,0,27,0,0,0,0,6,17,Retired,Ferrari,Sebastian Vettel,French Grand Prix
+Pedro,de la Rosa,Pedro de la Rosa,Spanish,Spain,1971,54,22,Retired,"Arrows;Jaguar;McLaren;Sauber;HRT",1999,2012,0,107,0,1,0,1,35,8,Retired,Ferrari,Kamui Kobayashi,Spanish Grand Prix
+Christijan,Albers,Christijan Albers,Dutch,Netherlands,1979,46,21,Retired,"Minardi;Spyker",2005,2007,0,46,0,0,0,0,4,19,Retired,Toyota,Adrian Sutil,Dutch Grand Prix
+Patrick,Friesacher,Patrick Friesacher,Austrian,Austria,1980,45,17,Retired,"Minardi",2005,2005,0,11,0,0,0,0,0,24,Retired,Cosworth,Christijan Albers,Austrian Grand Prix
+Narain,Karthikeyan,Narain Karthikeyan,Indian,India,1977,48,23,Retired,"Jordan;HRT",2005,2012,0,48,0,0,0,0,5,19,Retired,Cosworth,Vitantonio Liuzzi,Indian Grand Prix
+Robert,Doornbos,Robert Doornbos,Dutch,Netherlands,1981,44,14,Retired,"Minardi;Red Bull Racing",2005,2006,0,10,0,0,0,0,0,22,Retired,Cosworth,Christian Klien,Dutch Grand Prix
+Tiago,Monteiro,Tiago Monteiro,Portuguese,Portugal,1976,49,18,Retired,"Jordan;Midland;Spyker",2005,2006,0,37,0,1,0,0,7,14,Retired,Toyota,Christijan Albers,Portuguese Grand Prix
+Yuji,Ide,Yuji Ide,Japanese,Japan,1975,50,66,Retired,"Super Aguri",2006,2006,0,4,0,0,0,0,0,23,Retired,Honda,Takuma Sato,Japanese Grand Prix
+Franck,Montagny,Franck Montagny,French,France,1978,47,36,Retired,"Super Aguri",2006,2006,0,7,0,0,0,0,0,23,Retired,Honda,Takuma Sato,French Grand Prix
+Sakon,Yamamoto,Sakon Yamamoto,Japanese,Japan,1982,43,21,Retired,"Super Aguri;Spyker;HRT",2006,2010,0,21,0,0,0,0,0,23,Retired,Cosworth,Bruno Senna,Japanese Grand Prix
+Alexander,Wurz,Alexander Wurz,Austrian,Austria,1974,51,3,Retired,"Benetton;McLaren;Williams",1997,2007,0,70,0,3,0,0,45,8,Retired,Toyota,Nico Rosberg,Austrian Grand Prix
+Markus,Winkelhock,Markus Winkelhock,German,Germany,1980,45,21,Retired,"Spyker",2007,2007,0,1,0,0,0,0,0,24,Retired,Ferrari,Adrian Sutil,German Grand Prix
+Bruno,Senna,Bruno Senna,Brazilian,Brazil,1983,42,21,Retired,"HRT;Renault;Williams",2010,2012,0,46,0,0,0,0,33,11,Retired,Renault,Pastor Maldonado,Brazilian Grand Prix
+Karun,Chandhok,Karun Chandhok,Indian,India,1984,41,24,Retired,"HRT;Lotus",2010,2011,0,11,0,0,0,0,0,22,Retired,Cosworth,Bruno Senna,Indian Grand Prix
+Lucas,di Grassi,Lucas di Grassi,Brazilian,Brazil,1984,41,38,Retired,"Virgin Racing",2010,2010,0,18,0,0,0,0,0,22,Retired,Cosworth,Timo Glock,Brazilian Grand Prix
+Jerome,d Ambrosio,Jerome d Ambrosio,Belgian,Belgium,1985,40,20,Retired,"Virgin;Marussia;Lotus",2011,2012,0,34,0,0,0,0,2,20,Retired,Cosworth,Timo Glock,Belgian Grand Prix
+Charles,Pic,Charles Pic,French,France,1990,35,45,Retired,"Marussia;Caterham",2012,2013,0,39,0,0,0,0,0,22,Retired,Cosworth,Timo Glock,French Grand Prix
+Giedo,van der Garde,Giedo van der Garde,Dutch,Netherlands,1985,40,21,Retired,"Caterham",2013,2013,0,19,0,0,0,0,0,21,Retired,Renault,Charles Pic,Dutch Grand Prix
+Jules,Bianchi,Jules Bianchi,French,France,1989,25,17,Retired,"Marussia",2013,2014,0,34,0,0,0,0,2,17,Deceased,Ferrari,Max Chilton,French Grand Prix
+Max,Chilton,Max Chilton,British,United Kingdom,1991,34,4,Retired,"Marussia",2013,2014,0,35,0,0,0,0,0,22,Retired,Ferrari,Jules Bianchi,British Grand Prix
+Esteban,Gutierrez,Esteban Gutierrez,Mexican,Mexico,1991,34,21,Retired,"Sauber;Haas",2013,2016,0,59,0,0,0,0,6,17,Retired,Ferrari,Romain Grosjean,Mexican Grand Prix
+Felipe,Nasr,Felipe Nasr,Brazilian,Brazil,1992,33,12,Retired,"Sauber",2015,2016,0,39,0,0,0,0,29,13,Retired,Ferrari,Marcus Ericsson,Brazilian Grand Prix
+Alexander,Rossi,Alexander Rossi,American,United States,1991,34,53,Retired,"Manor Marussia",2015,2015,0,5,0,0,0,0,0,22,Retired,Ferrari,Roberto Merhi,United States Grand Prix
+Roberto,Merhi,Roberto Merhi,Spanish,Spain,1991,34,98,Retired,"Manor Marussia",2015,2015,0,14,0,0,0,0,0,22,Retired,Ferrari,Will Stevens,Spanish Grand Prix
+Will,Stevens,Will Stevens,British,United Kingdom,1991,34,28,Retired,"Caterham;Manor Marussia",2014,2015,0,19,0,0,0,0,0,22,Retired,Ferrari,Roberto Merhi,British Grand Prix
+Rio,Haryanto,Rio Haryanto,Indonesian,Indonesia,1993,32,88,Retired,"Manor",2016,2016,0,12,0,0,0,0,0,22,Retired,Mercedes,Pascal Wehrlein,Indonesian Grand Prix
+Pietro,Fittipaldi,Pietro Fittipaldi,Brazilian,Brazil,1996,29,51,Retired,"Haas",2020,2023,0,5,0,0,0,0,0,22,Retired,Ferrari,Kevin Magnussen,Brazilian Grand Prix
+Jack,Aitken,Jack Aitken,British,United Kingdom,1995,30,89,Retired,"Williams",2020,2020,0,1,0,0,0,0,0,22,Retired,Mercedes,Nicholas Latifi,British Grand Prix
+Luca,Badoer,Luca Badoer,Italian,Italy,1971,54,20,Retired,"Lola;Minardi;Ferrari",1993,2009,0,58,0,0,0,0,0,21,Retired,Ferrari,Giancarlo Fisichella,Italian Grand Prix
+Andre,Lotterer,Andre Lotterer,Belgian,Belgium,1981,44,45,Retired,"Caterham",2014,2014,0,1,0,0,0,0,0,24,Retired,Renault,Marcus Ericsson,Belgian Grand Prix
